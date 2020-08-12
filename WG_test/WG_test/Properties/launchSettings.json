@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WG_test": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\DerickWu\\Desktop\\file1.json C:\\Users\\DerickWu\\Desktop\\file2.json"
+    }
+  }
+}
